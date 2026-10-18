@@ -1,0 +1,1 @@
+# Zaman-Ayarl-leri-Geri-Otomatik-Kumanda-Panosu
