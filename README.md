@@ -44,13 +44,9 @@ Bu proje; motorun ileri ve geri yönlerde güvenli çalışmasını, ters yön g
   <img width="800" alt="Simulasyon Görseli" src="https://github.com/user-attachments/assets/803f4370-9dff-41ac-980e-ad0e03e8210a" />
 </p>
 
-<div align="center">
+
   <img width="48%" alt="QET Şema Görseli 1" src="https://github.com/user-attachments/assets/b9ebb258-1bf4-45b3-927a-2a439545d771" />
   <img width="48%" alt="QET Şema Görseli 2" src="https://github.com/user-attachments/assets/a25f0589-d752-4c95-8f82-8632a90fc04a" />
-</div>
-
-<div align="center">
   <img width="48%" alt="QET Şema Görseli 3" src="https://github.com/user-attachments/assets/3dafd151-c4a6-4a79-999d-7523839f5eff" />
   <img width="48%" alt="QET Şema Görseli 4" src="https://github.com/user-attachments/assets/ee0432c1-e447-42a4-8ba8-38bca0658863" />
-</div>
 
