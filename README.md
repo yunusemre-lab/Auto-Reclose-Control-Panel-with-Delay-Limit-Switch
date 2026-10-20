@@ -74,23 +74,7 @@ Bu proje; motorun ileri ve geri yönlerde güvenli çalışmasını, ters yön g
 
 ### ⚡ QElectroTech Devre Şemaları & Pafta Çıktısı
 
-<p align="center">
-  <img width="100%" alt="Şema Görseli 1" src="https://github.com/user-attachments/assets/b9ebb258-1bf4-45b3-927a-2a439545d771" />
-</p>
-
-<p align="center">
-  <img width="100%" alt="Şema Görseli 2" src="https://github.com/user-attachments/assets/a25f0589-d752-4c95-8f82-8632a90fc04a" />
-</p>
-
-<p align="center">
-  <img width="100%" alt="Şema Görseli 3" src="https://github.com/user-attachments/assets/3dafd151-c4a6-4a79-999d-7523839f5eff" />
-</p>
-
-<p align="center">
-  <img width="100%" alt="Şema Görseli 4" src="https://github.com/user-attachments/assets/ee0432c1-e447-42a4-8ba8-38bca0658863" />
-</p>
-
----
-
-## 👨‍💻 Lisans & İletişim
-Bu proje açık kaynaklı olup eğitim ve mühendislik çalışmaları için özgürce kullanılabilir.
+<img width="1676" height="885" alt="Screenshot_1" src="https://github.com/user-attachments/assets/b9ebb258-1bf4-45b3-927a-2a439545d771" />
+<img width="1677" height="616" alt="Screenshot_2" src="https://github.com/user-attachments/assets/a25f0589-d752-4c95-8f82-8632a90fc04a" />
+<img width="1676" height="417" alt="Screenshot_3" src="https://github.com/user-attachments/assets/3dafd151-c4a6-4a79-999d-7523839f5eff" />
+<img width="984" height="701" alt="image" src="https://github.com/user-attachments/assets/ee0432c1-e447-42a4-8ba8-38bca0658863" />
