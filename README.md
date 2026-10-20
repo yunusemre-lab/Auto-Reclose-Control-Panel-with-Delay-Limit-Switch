@@ -67,7 +67,7 @@ Bu proje; motorun ileri ve geri yönlerde güvenli çalışmasını, ters yön g
 
 ### 🎥 Otomasyon Panel Simülasyonu
 <p align="center">
-  <img width="100%" alt="Paneli Simülasyonu" src="https://github.com/user-attachments/assets/803f4370-9dff-41ac-980e-ad0e03e8210a" />
+  <img width="75%" alt="Paneli Simülasyonu" src="https://github.com/user-attachments/assets/803f4370-9dff-41ac-980e-ad0e03e8210a" />
 </p>
 
 ---
