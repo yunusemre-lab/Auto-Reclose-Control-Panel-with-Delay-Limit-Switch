@@ -1,3 +1,4 @@
+[Ileri_Geri_Kumanda.pdf](https://github.com/user-attachments/files/33701402/Ileri_Geri_Kumanda.pdf)
 # Zaman-Ayarl-leri-Geri-Otomatik-Kumanda-Panosu
 <img width="800" height="922" alt="EduVoltDesigner2026-10-1818-36-37-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/803f4370-9dff-41ac-980e-ad0e03e8210a" />
 
