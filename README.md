@@ -60,6 +60,7 @@ Bu proje; motorun ileri ve geri yönlerde güvenli çalışmasını, ters yön g
 ## 📂 Dosya Yapısı
 * `Ileri_Geri_Kumanda.qet` — QElectroTech kaynak proje dosyası (Düzenlenebilir).
 * `Ileri_Geri_Kumanda_Semasi.pdf` — Profesyonel PDF pafta çıktısı.
+* `Ileri_Geri_Kumanda.evd` — Eduvolt simülasyonu.
 
 ---
 
